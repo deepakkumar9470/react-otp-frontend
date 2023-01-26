@@ -1,0 +1,11 @@
+.glass{
+    @apply w-5/6 h-5/6
+}
+
+.profile_img{
+    @apply cursor-pointer w-40
+}
+
+.textbox{
+    @apply w-3/4
+}
